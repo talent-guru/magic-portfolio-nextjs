@@ -1,6 +1,6 @@
-# Christian Orca - Portfolio Website
+Portfolio Website
 
-A modern, interactive portfolio website built with Next.js, TypeScript, and Tailwind CSS. Features stunning visual effects, smooth animations, and a professional design that showcases Christian's expertise as a Full-Stack Developer.
+A modern, interactive portfolio website built with Next.js, TypeScript, and Tailwind CSS. Features stunning visual effects, smooth animations, and a professional design that showcases expertise as a Full-Stack Developer.
 
 ## ✨ Features
 
@@ -66,8 +66,8 @@ A modern, interactive portfolio website built with Next.js, TypeScript, and Tail
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd christian-orca-portfolio
+   git clone git@github.com:talent-guru/magic-portfolio-nextjs.git
+   cd magic-portfolio-nextjs
    ```
 
 2. **Install dependencies**
@@ -182,13 +182,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Contact
-
-- **Email**: cristianorca.guru@gmail.com
-- **Location**: Fairfield NSW 2165, Australia
-- **LinkedIn**: [Christian Orca](https://linkedin.com/in/christian-orca)
-
----
-
-Built with ❤️ by Christian Orca using Next.js, TypeScript, and Tailwind CSS.
