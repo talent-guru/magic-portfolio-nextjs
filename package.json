@@ -7,7 +7,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "vercel-build": "next build",
+    "postinstall": "next telemetry disable"
   },
   "dependencies": {
     "next": "^14.0.0",
